@@ -1,12 +1,10 @@
 # DACON-Artificial-Intelligence-Bit-Trader-Contest-Season-3
-#Time Series Data Prediction Model
 
-#Overview of the competition
-
+#Overview of the competition - Time Series Data Prediction Model
+#
 #1. Topic
 
 #Please make the highest yield model by predicting the price of 10 kinds of cryptocurrency including Bitcoin!
-#
 #
 #2. Background
 
@@ -20,7 +18,6 @@
 
 #Join the contest through your own brilliant ideas and experiments!
 #
-#
 #3. Explanation of the competition
 
 #All participants have a total virtual capital of $10,000.
@@ -28,9 +25,9 @@
 #The goal is to create a model that invests continuously and predicts the amount of final change in a total of 760 investment 
 opportunities.
 #
-#
 #4. Organized / supervised
 
-#Host: DACON
+#Host: [DACON](https://dacon.io/)
 
-#Subject: DACON
+#Subject: [DACON](https://dacon.io/)
+
