@@ -1,40 +1,36 @@
 # DACON-Artificial-Intelligence-Bit-Trader-Contest-Season-3
-Time Series Data Prediction Model
+#Time Series Data Prediction Model
 
-Overview of the competition
+#Overview of the competition
 
-1. Topic
+#1. Topic
 
-Please make the highest yield model by predicting the price of 10 kinds of cryptocurrency including Bitcoin!
+#Please make the highest yield model by predicting the price of 10 kinds of cryptocurrency including Bitcoin!
+#
+#
+#2. Background
 
+#If you could predict the future correctly, what would you like to do first?
 
+#There have been many developments in many areas to predict the price of stocks and cryptocurrency.
 
-2. Background
+#Then is it possible to predict the price of cryptocurrency by looking at the price in minutes for a day?
 
-If you could predict the future correctly, what would you like to do first?
+#Wouldn't it be possible to predict the price of cryptocurrency by referring to the codes of many time series competitions currently held in Dacon?
 
-There have been many developments in many areas to predict the price of stocks and cryptocurrency.
+#Join the contest through your own brilliant ideas and experiments!
+#
+#
+#3. Explanation of the competition
 
-Then is it possible to predict the price of cryptocurrency by looking at the price in minutes for a day?
+#All participants have a total virtual capital of $10,000.
 
-Wouldn't it be possible to predict the price of cryptocurrency by referring to the codes of many time series competitions currently held in Dacon?
+#The goal is to create a model that invests continuously and predicts the amount of final change in a total of 760 investment 
+opportunities.
+#
+#
+#4. Organized / supervised
 
-Join the contest through your own brilliant ideas and experiments!
+#Host: DACON
 
-
-
-
-3. Explanation of the competition
-
-All participants have a total virtual capital of $10,000.
-
-The goal is to create a model that invests continuously and predicts the amount of final change in a total of 760 investment opportunities.
-
-
-
-
-4. Organized / supervised
-
-Host: DACON
-
-Subject: DACON
+#Subject: DACON
