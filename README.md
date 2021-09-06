@@ -1,4 +1,4 @@
-# [DACON](https://dacon.io/)-Artificial-Intelligence-Bit-Trader-Contest-Season-3
+# [DACON](https://dacon.io/)-Artificial-Intelligence-Bit-Trader-Competition-Season-3
 
 #Overview of the competition - Time Series Data Prediction Model
 #
