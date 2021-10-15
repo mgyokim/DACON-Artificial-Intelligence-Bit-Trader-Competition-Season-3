@@ -33,7 +33,7 @@ opportunities.
 
 #
 
-### ✔ INU_IME팀, PUBLIC 4위,Private31위 ($1351.64013)ARIMA
+### ✔ INU_IME팀, PUBLIC 4위,Private31위 ($21,274.17065 ▶ $1351.64013)ARIMA MODEL
 
 대회를 마무리하며 전체적인 코드를 공유합니다. 
 
@@ -71,7 +71,7 @@ Private 평가용 데이터의 기간동안 (2021년 4월~5월) Binance 기준�
 #
 ### ✔ 하지만 거래량 Data를 함께 본다면, 매도 거래량이 매수 거래량을 압도하기 때문에, 매수타점은 사실상 존재하지 않는 것으로 보여집니다.
 
-⚡ 실제로 제가 취미로 Upbit API를 이용해서 Larry Williams's Volatility Breakthrough Strategy Algorithm 을 적용한 프로그램매매를 진행하고 있는데, 해당 기간인 2021년 4월~5월에는 매수신호가 거의 없었던 경험이 있습니다.
+#### ⚡ 실제로 제가 취미로 Upbit API를 이용해서 Larry Williams's Volatility Breakthrough Strategy Algorithm 을 적용한 프로그램매매를 진행하고 있는데, 해당 기간인 2021년 4월~5월에는 매수신호가 거의 없었던 경험이 있습니다.
 
 Private 평가에서는, 데이터가 Secret Data라는 생각을 했는데, Private 평가에 이용되는 시계열 데이터의 대략적인 기간이 공지되어 있으므로, 
 
@@ -79,5 +79,4 @@ Private 평가에 사용되는 데이터에 해당되는 기간의 전체 추세
 
 전략을 구성했으면 좀더 현실적인 전략으로 접근할 수 있지 않았을까 하는 아쉬움이 남습니다.
 #
-### ✔ 좋은 팀원과 좋은 경험을 쌓게 해준 DACON팀에게 감사드립니다.
-
+### ✔ 좋은 팀원과 좋은 경험을 쌓을 수 있는 기회를 제공해 주신 DACON팀에게 감사드립니다.
