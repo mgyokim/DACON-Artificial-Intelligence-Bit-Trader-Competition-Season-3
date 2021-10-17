@@ -44,6 +44,9 @@ Public 평가와 달리, Private 평가에서는 성능이 좋지 않았습니�
 
 저희는 Arima 모델을 사용했는데요, 최대한 안정적으로 매매하는 것을 목표로 했습니다.
 
+![ARIMA](https://user-images.githubusercontent.com/66030601/137611992-bc97ae54-b364-4aff-abfe-1d7e7e20fd34.PNG)
+
+
 BB(볼린저 밴드)와 BBW를 이용하여 Price가 BB와 BBW의 상단터치, 하단터치시 매수 매도 등의 제약을 걸어봤으나, 유효한 결과를 얻지 못하여, 안정성 증가만을 목표로 하단 터치시 buy quantity = 0 이 되도록 설정했습니다.
 
 RSI와 VWAP등 여러 지표도 사용했고, Price의 경우엔 꼬리가 긴 형태의 bar로 인한 변동성 증폭을 고려하여 다음과 같이 초기 Price를 설정했습니다.
