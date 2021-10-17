@@ -53,6 +53,9 @@ RSI와 VWAP등 여러 지표도 사용했고, Price의 경우엔 꼬리가 긴 �
 
 ((((df['high'] + df['low'])/2) +  df['open'] + df['close']) / 3)
 #
+
+![leader](https://user-images.githubusercontent.com/66030601/137612128-1669e3b2-bb50-4453-af22-9c93f055c038.PNG)
+
 ### ✔ 결과적으로 Public 평가에서는 4위, Private 평가에서는 31위를 기록했습니다.
 
 Private 평가에서 성능이 좋지 않았던 이유를 리뷰해 보겠습니다. (Private 평가에 사용된 data는 2021년 4월~5월의 데이터라는 것만 공개)
